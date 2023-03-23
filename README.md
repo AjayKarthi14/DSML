@@ -18,3 +18,7 @@
       - ANOVA test on Weather/Seasons (KS Test & Levene Test to Check the normal distribution and variances equality
       - Kruskal Test on Weather/Seasons
       - Chi square Test to check whether weather is depedednt on Seasons.
+      
+6. **Delhivery Feature Engineering:**
+      - Clean, sanitize and manipulate data to get useful features out of raw fields.
+      - Relationship between time and distance using visual and hypothesis testing.
