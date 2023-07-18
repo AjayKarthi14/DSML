@@ -22,7 +22,7 @@
 6. **Delhivery Feature Engineering:**
       - Clean, sanitize and manipulate data to get useful features out of raw fields.
       - Relationship between time and distance using visual and hypothesis testing.
-      - 
+        
 7. **Jamboree Education - Linear Regression:**
       - factors important in graduate admissions and how these factors are interrelated among themselves
       - to predict one's chances of admission given the rest of the variables
